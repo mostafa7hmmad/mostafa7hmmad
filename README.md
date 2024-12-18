@@ -25,7 +25,7 @@ data engineering, and visualization, while also exploring creative problem-solvi
 
 ## 📫 How to Reach Me  
 - WhatsApp: [Message me directly](https://wa.me/01154079827)  
-- Facebook: [Message me directly]([https://wa.me/01154079827](https://www.facebook.com/share/X3dkSH6LpFqadSQ3/?mibextid=qi2Omg))  
+- Facebook: [Message me directly](https://www.facebook.com/share/X3dkSH6LpFqadSQ3/?mibextid=qi2Omg)
 - Email: mhfarag938@gmail.com  
 
 ## ⚡
