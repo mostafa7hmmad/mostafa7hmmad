@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mostafa Hammad  
+# 👋 Hi, I’m Mostafa   
 ![Future](1_pTGaSOy0H_o0x2s_fMdgBg.jpg)
 ## About Me  
 I’m Mostafa, a passionate and dedicated Data Scientist with a diverse skill set that spans across data science,
