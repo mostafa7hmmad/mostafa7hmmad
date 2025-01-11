@@ -23,7 +23,7 @@ I’m Mostafa, a passionate and dedicated Data Scientist with a diverse skill se
 - *Web Development Projects*: Combining backend (Laravel) and frontend skills (HTML, CSS, Bootstrap) to build dynamic applications.  
 
 ## 📫 How to Reach Me  
-  - WhatsApp: [Message me directly](https://wa.me/01154079827)  
+  - WhatsApp: [Message me directly](https://wa.me/201154079827)  
   - Facebook: [Message me directly](https://www.facebook.com/share/X3dkSH6LpFqadSQ3/?mibextid=qi2Omg)  
   - Email: mhfarag938@gmail.com   
 
