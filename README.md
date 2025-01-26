@@ -29,7 +29,7 @@
 
 
 
-### 🚀 About Me
+###  About Me
   I’m Mostafa, a passionate and dedicated Data Scientist with a diverse skill set that spans across data science, machine learning, and web development. At just 20 years old, I have honed my abilities in programming, data engineering, and visualization, while also exploring creative problem-solving techniques to address real-world challenges.  
 
 ## 📫 How to Reach Me  
@@ -56,9 +56,6 @@
 - *Data Science Projects*: Especially those involving predictive analytics, data visualization, and ML model development.  
 - *Open Source Contributions*: Enhancing tools and libraries in Python, visualization, or scraping.  
 - *Web Development Projects*: Combining backend (Laravel) and frontend skills (HTML, CSS, Bootstrap) to build dynamic applications.  
-
-
-
 
 ## ⚡ 
 - I’m not only a data scientist but also a chef who loves experimenting with recipes and flavors!  
