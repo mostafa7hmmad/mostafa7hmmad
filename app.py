@@ -1,5 +1,5 @@
 import requests
-import matplotlib.pyplot as plt
+import plotly.graph_objects as go
 
 # Replace with your GitHub username
 username = "mostafa7hmmad"
@@ -16,16 +16,19 @@ followers_count = response.json().get("followers", 0)
 response = requests.get(repos_url)
 stars_count = sum(repo.get("stargazers_count", 0) for repo in response.json())
 
-# Print counts for verification
-print(f"Followers: {followers_count}")
-print(f"Stars: {stars_count}")
-
-# Create a bar chart
+# Prepare data
 labels = ["Followers", "Stars"]
 values = [followers_count, stars_count]
 
-plt.bar(labels, values, color=["blue", "gold"])
-plt.title(f"GitHub Stats for {username}")
-plt.ylabel("Count")
-plt.savefig("github_stats.png")  # Save the chart as an image
-plt.show()
+# Create interactive chart
+fig = go.Figure(data=[go.Bar(x=labels, y=values, marker=dict(color=['blue', 'gold']))])
+fig.update_layout(
+    title=f"GitHub Stats for {username}",
+    xaxis_title="Category",
+    yaxis_title="Count",
+    template="plotly_dark",
+)
+
+# Save as an HTML file
+fig.write_html("github_stats.html")
+print("Interactive chart saved as github_stats.html")
