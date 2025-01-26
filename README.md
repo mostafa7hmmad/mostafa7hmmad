@@ -2,8 +2,7 @@
  ![Future](newplot.png)
 
  
-![GitHub followers](https://github.com/mostafa7hmmad?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/username123?style=social)
+[![GitHub Followers](https://img.shields.io/github/followers/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=followers)
 
 ## About Me  
 I’m Mostafa, a passionate and dedicated Data Scientist with a diverse skill set that spans across data science, machine learning, and web development. At just 20 years old, I have honed my abilities in programming, data engineering, and visualization, while also exploring creative problem-solving techniques to address real-world challenges.  
