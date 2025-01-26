@@ -33,7 +33,7 @@
 ## 📫 How to Reach Me  
   - WhatsApp: [Message me directly](https://wa.me/201154079827)  
   - Facebook: [Message me directly](https://www.facebook.com/share/X3dkSH6LpFqadSQ3/?mibextid=qi2Omg)  
-  - Linkedin: [Message me directly]([https://www.facebook.com/share/X3dkSH6LpFqadSQ3/?mibextid=qi2Omg](https://www.linkedin.com/in/mostafa-hammad-154b42317/))  
+  - linkedin: [Message me directly](https://www.linkedin.com/in/mostafa-hammad-154b42317/)  
   - Email: mhfarag938@gmail.com   
 
 
