@@ -3,7 +3,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=repositories)
 
-[![GitHub Forks](https://img.shields.io/github/forks/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=repositories)
+![GitHub Contributions](https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://github-contributions-api.jogruber.de/v4/mostafa7hmmad&label=Contributions&color=green&style=flat-square)
 
  ![Future](newplot.png)
 
