@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Mostafa
  ![Future](newplot.png)
-![GitHub followers](https://img.shields.io/github/followers/username123?style=social)
+
+ 
+![GitHub followers]([https://img.shields.io/github/followers/username123?style=social](https://github.com/mostafa7hmmad?tab=followers))
 ![GitHub stars](https://img.shields.io/github/stars/username123?style=social)
 
 ## About Me  
