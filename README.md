@@ -3,7 +3,8 @@
 [![GitHub Followers](https://img.shields.io/github/followers/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=repositories)
 
-![GitHub Contributions](https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://github-contributions-api.jogruber.de/v4/mostafa7hmmad&label=Contributions&color=green&style=flat-square)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mostafa7hmmad&theme=radical)](https://github.com/mostafa7hmmad)
+
 
  ![Future](newplot.png)
 
