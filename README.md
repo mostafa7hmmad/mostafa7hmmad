@@ -27,7 +27,7 @@
 
 - 🌟 [Laravel-multivendor ](https://github.com/mostafa7hmmad/Laravel-multivendor )
 
-![AI Animation](https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif)
+<img src="https://assets3.lottiefiles.com/packages/lf20_tll0j3bb.json" alt="AI Animation" width="500">
 
 ###  About Me
   I’m Mostafa, a passionate and dedicated Data Scientist with a diverse skill set that spans across data science, machine learning, and web development. At just 20 years old, I have honed my abilities in programming, data engineering, and visualization, while also exploring creative problem-solving techniques to address real-world challenges.  
