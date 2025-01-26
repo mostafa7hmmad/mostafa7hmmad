@@ -6,7 +6,12 @@
 
 
 
- 
+ ### 🚀 My Projects
+
+- 🌟 [Project Name 1](https://github.com/mostafa7hmmad/Student-Mental-Health-Predictor ): A cool description of the project. (⭐ 45, 🍴 10)
+- 🌟 [Project Name 2](https://github.com/mostafa7hmmad/Breast-Cancer-Classification): Another project description. (⭐ 30, 🍴 8)
+- 🌟 [Project Name 3](https://github.com/mostafa7hmmad/Protease-Inhibitors-Bioactivity-Prediction): Yet another project! (⭐ 25, 🍴 4)
+
 
 
 ## About Me  
