@@ -4,7 +4,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=repositories)
  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mostafa7hmmad&theme=github)](https://github.com/mostafa7hmmad)
 
- ![Future](newplot.png)
 
  
 
