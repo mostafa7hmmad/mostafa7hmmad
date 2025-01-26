@@ -18,21 +18,22 @@
 | [Heart-Failure-Risk-Prediction-Next-10-Year](https://github.com/mostafa7hmmad/Heart-Failure-Risk-Prediction-Next-10-Year) | Predict heart failure risk over a decade.              | ⭐⭐⭐⭐     |
 
 
-
 ### 🚀 Data Analysis Projects
 
-- 🌟 [Employee-Salaries-analysis](https://github.com/mostafa7hmmad/Employee-Salaries-analysis)
-- 🌟 [Weather-Analysis](https://github.com/mostafa7hmmad/Weather-Analysis)
-- 🌟 [Mental-health-EDA ](https://github.com/mostafa7hmmad/Mental-health-EDA )
+| 🌟 Project Name                                                                                      | Description                     |
+|-----------------------------------------------------------------------------------------------------|---------------------------------|
+| [Employee-Salaries-analysis](https://github.com/mostafa7hmmad/Employee-Salaries-analysis)           | Analysis of employee salaries. |
+| [Weather-Analysis](https://github.com/mostafa7hmmad/Weather-Analysis)                               | Exploratory weather analysis.  |
+| [Mental-health-EDA](https://github.com/mostafa7hmmad/Mental-health-EDA)                             | Mental health data analysis.   |
 
+---
 
-### 🚀 Wep Apps
+### 🚀 Web Apps
 
-- 🌟 [Laravel-multivendor ](https://github.com/mostafa7hmmad/Laravel-multivendor )
+| 🌟 Project Name                                                                          | Description                     |
+|-----------------------------------------------------------------------------------------|---------------------------------|
+| [Laravel-multivendor](https://github.com/mostafa7hmmad/Laravel-multivendor)             | Multi-vendor e-commerce app.   |
 
-
-
-![AI Animation](https://raw.githubusercontent.com/your-username/your-repo/main/ai_animation.gif)
 
 ### 📊 About Me
   I’m Mostafa, a passionate and dedicated Data Scientist with a diverse skill set that spans across data science, machine learning, and web development. At just 20 years old, I have honed my abilities in programming, data engineering, and visualization, while also exploring creative problem-solving techniques to address real-world challenges.  
