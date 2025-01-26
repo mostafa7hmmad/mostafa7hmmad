@@ -6,14 +6,29 @@
 
 
 
- ### 🚀 My Projects
+ ### 🚀Machine learning Projects
 
-- 🌟 [Project Name 1](https://github.com/mostafa7hmmad/Student-Mental-Health-Predictor ): A cool description of the project. (⭐ 45, 🍴 10)
-- 🌟 [Project Name 2](https://github.com/mostafa7hmmad/Breast-Cancer-Classification): Another project description. (⭐ 30, 🍴 8)
-- 🌟 [Project Name 3](https://github.com/mostafa7hmmad/Protease-Inhibitors-Bioactivity-Prediction): Yet another project! (⭐ 25, 🍴 4)
+- 🌟 [Student-Mental-Health-Predictor](https://github.com/mostafa7hmmad/Student-Mental-Health-Predictor)
+- 🌟 [Breast-Cancer-Classification](https://github.com/mostafa7hmmad/Breast-Cancer-Classification)
+- 🌟 [Protease-Inhibitors-Bioactivity-Prediction](https://github.com/mostafa7hmmad/Protease-Inhibitors-Bioactivity-Prediction)
+- 🌟 [APPLE-Stock-Price-Prediction](https://github.com/mostafa7hmmad/APPLE-Stock-Price-Prediction)
+- 🌟 [Heart-Failure-Risk-Prediction-Next-10-Year](https://github.com/mostafa7hmmad/Heart-Failure-Risk-Prediction-Next-10-Year)
+- 🌟 [Trigram-Predictive-Model](https://github.com/mostafa7hmmad/Trigram-Predictive-Model)
 
 
+### 🚀 Data Analysis Projects
 
+- 🌟 [Employee-Salaries-analysis](https://github.com/mostafa7hmmad/Employee-Salaries-analysis)
+- 🌟 [Weather-Analysis](https://github.com/mostafa7hmmad/Weather-Analysis)
+- 🌟 [Mental-health-EDA ](https://github.com/mostafa7hmmad/Mental-health-EDA )
+
+
+### 🚀 Wep Apps
+
+- 🌟 [Laravel-multivendor ](https://github.com/mostafa7hmmad/Laravel-multivendor )
+
+
+  
 ## About Me  
 I’m Mostafa, a passionate and dedicated Data Scientist with a diverse skill set that spans across data science, machine learning, and web development. At just 20 years old, I have honed my abilities in programming, data engineering, and visualization, while also exploring creative problem-solving techniques to address real-world challenges.  
 
