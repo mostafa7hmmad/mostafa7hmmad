@@ -1,9 +1,14 @@
 # 👋 Hi, I’m Mostafa
+
+[![GitHub Followers](https://img.shields.io/github/followers/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=repositories)
+
+[![GitHub Forks](https://img.shields.io/github/forks/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=repositories)
+
  ![Future](newplot.png)
 
  
-[![GitHub Followers](https://img.shields.io/github/followers/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=repositories)
+
 
 ## About Me  
 I’m Mostafa, a passionate and dedicated Data Scientist with a diverse skill set that spans across data science, machine learning, and web development. At just 20 years old, I have honed my abilities in programming, data engineering, and visualization, while also exploring creative problem-solving techniques to address real-world challenges.  
