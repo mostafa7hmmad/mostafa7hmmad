@@ -11,7 +11,7 @@
 
 | 🌟 **Project Name**                             | **Description**                                        | **Stars** |
 |------------------------------------------------|--------------------------------------------------------|-----------|
-| [Student-Mental-Health-Predictor](https://github.com/mostafa7hmmad/Student-Mental-Health-Predictor) | Predict students' mental health conditions.            | ⭐⭐⭐⭐⭐    |
+| [Student-Mental-Health-Prediction-Using Ensemble-Learning-Technique](https://github.com/mostafa7hmmad/Student-Mental-Health-Prediction-Using Ensemble-Learning-Technique) | Predict students' mental health conditions.            | ⭐⭐⭐⭐⭐    |
 | [Breast-Cancer-Classification](https://github.com/mostafa7hmmad/Breast-Cancer-Classification)     | Machine learning model for cancer diagnosis.           | ⭐⭐⭐⭐     |
 | [Protease-Inhibitors-Bioactivity-Prediction](https://github.com/mostafa7hmmad/Protease-Inhibitors-Bioactivity-Prediction) | Predict bioactivity of chemical compounds.             | ⭐⭐⭐⭐     |
 | [APPLE-Stock-Price-Prediction](https://github.com/mostafa7hmmad/APPLE-Stock-Price-Prediction)     | Forecast Apple stock prices using ML techniques.       | ⭐⭐⭐⭐⭐    |
