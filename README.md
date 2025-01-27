@@ -16,6 +16,7 @@
 | [Protease-Inhibitors-Bioactivity-Prediction](https://github.com/mostafa7hmmad/Protease-Inhibitors-Bioactivity-Prediction) | Predict bioactivity of chemical compounds.             | ⭐⭐⭐⭐     |
 | [APPLE-Stock-Price-Prediction](https://github.com/mostafa7hmmad/APPLE-Stock-Price-Prediction)     | Forecast Apple stock prices using ML techniques.       | ⭐⭐⭐⭐⭐    |
 | [Heart-Failure-Risk-Prediction-Next-10-Year](https://github.com/mostafa7hmmad/Heart-Failure-Risk-Prediction-Next-10-Year) | Predict heart failure risk over a decade.              | ⭐⭐⭐⭐     |
+| [Medical-insurance-Predictions](https://github.com/mostafa7hmmad/Medical-insurance-Predictions) | Predict insurance For each Person.              | ⭐⭐⭐⭐     |
 
 
 ### 🚀 Data Analysis Projects
