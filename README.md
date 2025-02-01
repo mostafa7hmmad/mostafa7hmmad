@@ -7,33 +7,6 @@
 
 
 
- ### 🚀Machine learning Projects
-
-| 🌟 **Project Name**                             | **Description**                                        | **Stars** |
-|------------------------------------------------|--------------------------------------------------------|-----------|
-| [Student-Mental-Health-Prediction-Using Ensemble-Learning-Technique](https://github.com/mostafa7hmmad/Student-Mental-Health-Prediction-Using-Ensemble-Learning-Technique.git) | Predict students' mental health conditions.            | ⭐⭐⭐⭐⭐    |
-| [Breast-Cancer-Classification](https://github.com/mostafa7hmmad/Breast-Cancer-Classification)     | Machine learning model for cancer diagnosis.           | ⭐⭐⭐⭐     |
-| [Protease-Inhibitors-Bioactivity-Prediction](https://github.com/mostafa7hmmad/Protease-Inhibitors-Bioactivity-Prediction) | Predict bioactivity of chemical compounds.             | ⭐⭐⭐⭐     |
-| [APPLE-Stock-Price-Prediction](https://github.com/mostafa7hmmad/APPLE-Stock-Price-Prediction)     | Forecast Apple stock prices using ML techniques.       | ⭐⭐⭐⭐⭐    |
-| [Heart-Failure-Risk-Prediction-Next-10-Year](https://github.com/mostafa7hmmad/Heart-Failure-Risk-Prediction-Next-10-Year) | Predict heart failure risk over a decade.              | ⭐⭐⭐⭐     |
-| [Medical-insurance-Predictions](https://github.com/mostafa7hmmad/Medical-insurance-Predictions) | Predict insurance For each Person.              | ⭐⭐⭐⭐     |
-
-
-### 🚀 Data Analysis Projects
-
-| 🌟 Project Name                                                                                      | Description                     |
-|-----------------------------------------------------------------------------------------------------|---------------------------------|
-| [Employee-Salaries-analysis](https://github.com/mostafa7hmmad/Employee-Salaries-analysis)           | Analysis of employee salaries. |
-| [Weather-Analysis](https://github.com/mostafa7hmmad/Weather-Analysis)                               | Exploratory weather analysis.  |
-| [Mental-health-EDA](https://github.com/mostafa7hmmad/Mental-health-EDA)                             | Mental health data analysis.   |
-
----
-
-### 🚀 Web Apps
-
-| 🌟 Project Name                                                                          | Description                     |
-|-----------------------------------------------------------------------------------------|---------------------------------|
-| [Laravel-multivendor](https://github.com/mostafa7hmmad/Laravel-multivendor)             | Multi-vendor e-commerce app.   |
 
 
 ### 📊 About Me
