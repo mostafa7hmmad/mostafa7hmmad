@@ -1,5 +1,19 @@
 
-# 👋 Hi, I’m Mostafa
+# 👋 Hi, I’m Mostafa <p align="left">
+  <a href="https://wa.me/201154079827" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.facebook.com/share/X3dkSH6LpFqadSQ3/?mibextid=qi2Omg" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/mostafa-hammad-154b42317/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mhfarag938@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa7hmmad&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa7hmmad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa7hmmad" alt="mostafa7hmmad" /></a> </p>
@@ -21,26 +35,6 @@
 ### 📊 About Me
   **I’m Mostafa, a passionate and dedicated Data Scientist with a diverse skill set that spans across data science, machine learning, and web development. At just 20 years old, I have honed my abilities in programming, data engineering, and visualization, while also exploring creative problem-solving techniques to address real-world challenges.**  
 
-## 📫 How to Reach Me  
-## 📫 How to Reach Me  
-<p align="left">
-  <a href="https://wa.me/201154079827" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://www.facebook.com/share/X3dkSH6LpFqadSQ3/?mibextid=qi2Omg" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/mostafa-hammad-154b42317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mhfarag938@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-  - WhatsApp: [Message me directly](https://wa.me/201154079827)  
-  - Facebook: [Message me directly](https://www.facebook.com/share/X3dkSH6LpFqadSQ3/?mibextid=qi2Omg)  
-  - linkedin: [Message me directly](https://www.linkedin.com/in/mostafa-hammad-154b42317/)  
-  - Email: mhfarag938@gmail.com   
 
 
 ## 👀 I’m Interested In  
