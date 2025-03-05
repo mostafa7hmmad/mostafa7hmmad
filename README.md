@@ -14,7 +14,11 @@
 [![GitHub Stars](https://img.shields.io/github/stars/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=repositories)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mostafa7hmmad&theme=github)](https://github.com/mostafa7hmmad)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa7hmmad&show_icons=true&locale=en&layout=compact" alt="mostafa7hmmad" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa7hmmad&show_icons=true&locale=en" alt="mostafa7hmmad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa7hmmad&" alt="mostafa7hmmad" /></p>
 
 ### 📊 About Me
   I’m Mostafa, a passionate and dedicated Data Scientist with a diverse skill set that spans across data science, machine learning, and web development. At just 20 years old, I have honed my abilities in programming, data engineering, and visualization, while also exploring creative problem-solving techniques to address real-world challenges.  
