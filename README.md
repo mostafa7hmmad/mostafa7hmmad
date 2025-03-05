@@ -1,12 +1,6 @@
 
 # 👋 Hi, I’m Mostafa
-Programming language: Python | C++ | PHP
 
-Frameworks Libraries: Pandas | Numpy | Matplotlib | Seaborn | Plotly | Bs4 | Requests | Streamlit | NLTK | Laravel | Bootstrap | Scikit-learn
-
-Tools: Git | Github
-
-Concepts: Software Engineering | OOP | Data Structure | Linear Algebra | Data Engineering | MYSQL | Machine Learning | Basic Deep Learning | Basics Natural language processing
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
