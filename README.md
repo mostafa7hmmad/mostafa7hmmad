@@ -17,10 +17,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p>
-  <strong>Programming Languages:</strong> Python | C++ | PHP<br>
-  <strong>Frameworks & Libraries:</strong> Pandas | Numpy | Matplotlib | Seaborn | Plotly | Bs4 | Requests | Streamlit | NLTK | Laravel | Bootstrap | Scikit-learn
-</p>
+
 [![GitHub Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https://api.github.com/users/mostafa7hmmad)](https://github.com/mostafa7hmmad?tab=repositories)
 [![GitHub Followers](https://img.shields.io/github/followers/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=repositories)
