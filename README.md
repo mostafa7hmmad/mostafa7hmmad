@@ -1,4 +1,4 @@
-<!-- 🔥 Mostafa Hammad's Dynamic GitHub Profile README -->
+
 
 <h1 align="center">👋 Hi, I’m Mostafa</h1>
 
@@ -42,18 +42,42 @@
 ### 🧠 Featured Projects
 
 <p align="left">
+  <!-- YOLO Drowsiness Detection -->
+  <a href="https://github.com/mostafa7hmmad/yolov8-drowsiness-detection-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa7hmmad&repo=yolov8-drowsiness-detection-system&theme=github_dark" />
+  </a>
+
+  <!-- U-Net Brain MRI -->
+  <a href="https://github.com/mostafa7hmmad/U-Net-Brain-MRI-Segmentation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa7hmmad&repo=U-Net-Brain-MRI-Segmentation&theme=github_dark" />
+  </a>
+
+  <!-- U-Net Powered Brain MRI Segmentation -->
   <a href="https://github.com/mostafa7hmmad/U-Net-Powered-Brain-MRI-Segmentation-for-Medical-Diagnostics">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa7hmmad&repo=U-Net-Powered-Brain-MRI-Segmentation-for-Medical-Diagnostics&theme=github_dark" />
   </a>
+
+  <!-- EMG Signal Classification -->
+  <a href="https://github.com/mostafa7hmmad/EMG-Signal-Classification-Arm-Movements">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa7hmmad&repo=EMG-Signal-Classification-Arm-Movements&theme=github_dark" />
+  </a>
+
+  <!-- Heart Disease Prediction -->
   <a href="https://github.com/mostafa7hmmad/Heart-Disease-Prediction-ML">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa7hmmad&repo=Heart-Disease-Prediction-ML&theme=github_dark" />
   </a>
+
+  <!-- Mental Health Analysis -->
   <a href="https://github.com/mostafa7hmmad/Mental-Health-Analysis-ML">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa7hmmad&repo=Mental-Health-Analysis-ML&theme=github_dark" />
   </a>
+
+  <!-- Gender Classification -->
+  <a href="https://github.com/mostafa7hmmad/Gender-classification-Facial-Recognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa7hmmad&repo=Gender-classification-Facial-Recognition&theme=github_dark" />
+  </a>
 </p>
 
----
 
 ### 📊 GitHub Stats & Insights
 
