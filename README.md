@@ -37,48 +37,8 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
 </p>
 
----
 
-### 🧠 Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/mostafa7hmmad/yolov8-drowsiness-detection-system">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/mostafa7hmmad/U-Net-Brain-MRI-Segmentation">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mostafa7hmmad/U-Net-Powered-Brain-MRI-Segmentation-for-Medical-Diagnostics">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/mostafa7hmmad/Heart-Disease-Prediction-ML">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mostafa7hmmad/Mental-Health-Analysis-ML">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/mostafa7hmmad/EMG-Signal-Classification-Arm-Movements">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mostafa7hmmad/Gender-classification-Facial-Recognition">
-      </a>
-    </td>
-  </tr>
-</table>
 
 ### 📊 GitHub Stats & Insights
 
