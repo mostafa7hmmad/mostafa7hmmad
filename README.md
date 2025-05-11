@@ -20,6 +20,9 @@
 ---
 
 ### 🚀 Tech Stack
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa7hmmad&theme=github-compact" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
@@ -40,15 +43,11 @@
 
 
 
-### 📊 GitHub Stats & Insights
+### 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mostafa7hmmad&show_icons=true&theme=github_dark" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa7hmmad&layout=compact&theme=github_dark" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa7hmmad&theme=github-compact" />
 </p>
 
 ---
