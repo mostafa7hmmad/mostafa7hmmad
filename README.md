@@ -20,17 +20,8 @@
   </a>
 </p>
 
----
 
-### 🙋‍♂️ About Me
 
-🎓 I’m **Mostafa Hammad**, a passionate **Data Scientist**, **Back-End Developer**, and creative problem solver from **Egypt**.  
-💻 I work mainly with Python, Laravel, and Machine Learning technologies.  
-🧠 I love converting data into insights and building smart solutions.  
-🏋️‍♂️ Fun fact: I can bench press 120kg and cook like a pro chef!  
-📛 Nickname: **Toufa**
-
----
 
 [![GitHub Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https://api.github.com/users/mostafa7hmmad)](https://github.com/mostafa7hmmad?tab=repositories)
 [![GitHub Followers](https://img.shields.io/github/followers/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=followers)
@@ -66,22 +57,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa7hmmad&theme=github-compact" />
 </p>
-
----
-
-### 🧠 Currently Learning
-- Advanced Machine Learning (Sklearn, TensorFlow, PyTorch)  
-- Web Apps using Streamlit  
-- NLP with NLTK  
-- Building RESTful APIs with Laravel  
-
----
-
-### 🤝 Looking to Collaborate On
-- Open-source ML or data visualization projects  
-- Web scraping tools  
-- Laravel + Python backend systems  
-- Any fun, real-world AI challenges
 
 
 
