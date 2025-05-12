@@ -8,7 +8,24 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Full+Stack+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
-
+<p align="center">
+  <!-- Animated social badges -->
+  <a href="https://wa.me/201154079827" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="https://www.facebook.com/share/X3dkSH6LpFqadSQ3/?mibextid=qi2Omg" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="https://www.linkedin.com/in/mostafa-hammad-154b42317/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="mailto:mhfarag938@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010" />
+  </a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mostafa7hmmad&label=Profile%20Views&color=0e75b6&style=flat" alt="mostafa7hmmad" /> 
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/mostafa7hmmad?label=Followers&style=social"> 
@@ -55,42 +72,6 @@
 
 
 
-### 📫 Let's Connect
 
-<p align="center">
-  <!-- Animated social badges -->
-  <a href="https://wa.me/201154079827" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="https://www.facebook.com/share/X3dkSH6LpFqadSQ3/?mibextid=qi2Omg" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="https://www.linkedin.com/in/mostafa-hammad-154b42317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="mailto:mhfarag938@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010" />
-  </a>
-</p>
 
----
 
-### 🎚️ Weekly Development Breakdown
-
-<!-- Wakatime stats -->
-[![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
-<!-- Replace with your actual WakaTime embed code -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mostafa7hmmad&layout=compact&theme=radical" alt="WakaTime Stats" />
-
----
-
-<p align="center">
-  <img src="https://github.com/mostafa7hmmad/mostafa7hmmad/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
