@@ -1,5 +1,11 @@
 <h1 align="center">👋 Hi, I'm Mostafa 
-  
+  ----
+  <p align="start">
+  <img src="https://komarev.com/ghpvc/?username=mostafa7hmmad&label=Profile%20Views&color=0e75b6&style=flat" alt="mostafa7hmmad" /> 
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/mostafa7hmmad?label=Followers&style=social"> 
+  <img src="https://img.shields.io/github/stars/mostafa7hmmad?label=Stars" alt="Total Stars">
+</p>
+
   <p align="center">
   <!-- Animated social badges -->
   <a href="https://wa.me/201154079827" target="_blank">
@@ -38,11 +44,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa7hmmad&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mostafa7hmmad&label=Profile%20Views&color=0e75b6&style=flat" alt="mostafa7hmmad" /> 
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/mostafa7hmmad?label=Followers&style=social"> 
-  <img src="https://img.shields.io/github/stars/mostafa7hmmad?label=Stars" alt="Total Stars">
-</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mostafa7hmmad&theme=onedark&row=1&column=7" alt="Trophies" />
