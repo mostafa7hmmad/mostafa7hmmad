@@ -9,6 +9,14 @@
   </a>
 </p>
 <p align="center">
+  <!-- Animated icons with hover effects -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,git,github,mysql,php,html,css,cpp" />
+  </a><br/>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,postgres,vscode,gcp,docker,bootstrap" />
+</p>
+
+<p align="center">
   <!-- Animated social badges -->
   <a href="https://wa.me/201154079827" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010" />
@@ -38,17 +46,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mostafa7hmmad&theme=onedark&row=1&column=7" alt="Trophies" />
 </div>
 
----
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <!-- Animated icons with hover effects -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,git,github,mysql,php,html,css,bootstrap,cpp" />
-  </a><br/>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,postgres,linux,vscode,aws,gcp,docker" />
-</p>
 
 ---
 
