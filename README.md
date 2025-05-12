@@ -33,6 +33,9 @@
 
 ---
 
+[![Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/mostafa7hmmad)](https://github.com/mostafa7hmmad?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=followers)
+[![Stars](https://img.shields.io/github/stars/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=repositories)
 ---
 ### 🚀 Tech Stack
 <p align="center">
@@ -42,9 +45,6 @@
 
 
 
-[![Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/mostafa7hmmad)](https://github.com/mostafa7hmmad?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=followers)
-[![Stars](https://img.shields.io/github/stars/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=repositories)
 
 ### 📊 GitHub Stats 
 
