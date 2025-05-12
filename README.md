@@ -9,6 +9,10 @@
   </a>
 </p>
 <p align="center">
+  <!-- 3D contribution graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa7hmmad&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" />
+</p>
+<p align="center">
   <!-- Animated social badges -->
   <a href="https://wa.me/201154079827" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010" />
@@ -21,9 +25,6 @@
   </a>
   <a href="mailto:mhfarag938@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010" />
   </a>
 </p>
 <p align="center">
@@ -63,12 +64,9 @@
   <img src="https://streak-stats.demolab.com?user=mostafa7hmmad&theme=holi-theme&fire=DD472C&ring=DD7230" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <!-- 3D contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa7hmmad&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" />
-</p>
 
----
+
+
 
 
 
