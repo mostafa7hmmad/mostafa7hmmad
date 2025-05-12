@@ -1,4 +1,20 @@
 <h1 align="center">👋 Hi, I'm Mostafa 
+  <p align="center">
+  <!-- Animated social badges -->
+  <a href="https://wa.me/201154079827" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="https://www.facebook.com/share/X3dkSH6LpFqadSQ3/?mibextid=qi2Omg" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="https://www.linkedin.com/in/mostafa-hammad-154b42317/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="mailto:mhfarag938@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
+  </a>
+</p>
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <img src="https://github.com/mostafa7hmmad/mostafa7hmmad/blob/main/images/border.gif?raw=true" width="100%"/>
 </h1>
@@ -16,21 +32,6 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,postgres,vscode,gcp,docker,bootstrap" />
 </p>
 
-<p align="center">
-  <!-- Animated social badges -->
-  <a href="https://wa.me/201154079827" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="https://www.facebook.com/share/X3dkSH6LpFqadSQ3/?mibextid=qi2Omg" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="https://www.linkedin.com/in/mostafa-hammad-154b42317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="mailto:mhfarag938@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
-  </a>
-</p>
 <p align="center">
   <!-- 3D contribution graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa7hmmad&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" />
