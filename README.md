@@ -1,29 +1,17 @@
 
 <h1 align="center">👋 Hi, I'm Mostafa 
 
-  <p align="center">
-  <!-- Dynamic GitHub stats with themes -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafa7hmmad&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa7hmmad&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
-<p align="center">
-  <!-- GitHub streak stats with fire animation -->
-  <img src="https://streak-stats.demolab.com?user=mostafa7hmmad&theme=holi-theme&fire=DD472C&ring=DD7230" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- 3D contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa7hmmad&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" />
-</p>
-
+ 
 ---
   <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Back+End+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
-
+<p align="center">
+  <!-- 3D contribution graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa7hmmad&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" />
+</p>
   <p align="center">
   <!-- Animated social badges -->
   <a href="https://wa.me/201154079827" target="_blank">
@@ -63,7 +51,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mostafa7hmmad&theme=onedark&row=1&column=7" alt="Trophies" />
 </div>
 
----
+--- <p align="center">
+  <!-- Dynamic GitHub stats with themes -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafa7hmmad&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa7hmmad&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+<p align="center">
+  <!-- GitHub streak stats with fire animation -->
+  <img src="https://streak-stats.demolab.com?user=mostafa7hmmad&theme=holi-theme&fire=DD472C&ring=DD7230" alt="GitHub Streak" />
+</p>
+
+
 
 
 
