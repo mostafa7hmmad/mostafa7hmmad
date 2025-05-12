@@ -2,13 +2,13 @@
 
 
   ---
-  <p align="start">
+  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mostafa7hmmad&label=Profile%20Views&color=0e75b6&style=flat" alt="mostafa7hmmad" /> 
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/mostafa7hmmad?label=Followers&style=social"> 
   <img src="https://img.shields.io/github/stars/mostafa7hmmad?label=Stars" alt="Total Stars">
 </p>
 
-  <p align="start">
+  <p align="center">
   <!-- Animated social badges -->
   <a href="https://wa.me/201154079827" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010" />
@@ -28,7 +28,7 @@
   <img src="https://github.com/mostafa7hmmad/mostafa7hmmad/blob/main/images/border.gif?raw=true" width="100%"/>
 </h1>
 
-<p align="start">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Computer+Vision+Engineer;Back+End+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
