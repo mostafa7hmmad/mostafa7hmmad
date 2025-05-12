@@ -18,7 +18,14 @@
 </p>
 
 ---
+### 📊 GitHub Stats 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafa7hmmad&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa7hmmad&layout=compact&theme=github_dark" height="180"/>
+</p>
+
+---
 ### 🚀 Tech Stack
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa7hmmad&theme=github-compact" />
@@ -43,14 +50,7 @@
 
 
 
-### 📊 GitHub Stats 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa7hmmad&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa7hmmad&layout=compact&theme=github_dark" height="180"/>
-</p>
-
----
 
 ### 📈 Live GitHub Profile Metrics
 
