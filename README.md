@@ -21,6 +21,14 @@
 </h1>
 
 <p align="center">
+  <!-- Animated icons with hover effects -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,git,github,mysql,php,html,css,bootstrap,cpp" />
+  </a><br/>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,postgres,linux,vscode,aws,gcp,docker" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Back+End+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
@@ -38,17 +46,7 @@
 
 ---
 
-### 🛠️ Tech Stack
 
-<p align="center">
-  <!-- Animated icons with hover effects -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,git,github,mysql,php,html,css,bootstrap,cpp" />
-  </a><br/>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,postgres,linux,vscode,aws,gcp,docker" />
-</p>
-
----
 
 ### 📈 GitHub Analytics
 
