@@ -1,6 +1,12 @@
 
 <h1 align="center">👋 Hi, I'm Mostafa 
   <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Back+End+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
+
+  <p align="center">
   <!-- Animated social badges -->
   <a href="https://wa.me/201154079827" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010" />
@@ -28,11 +34,6 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,postgres,linux,vscode,aws,gcp,docker" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Back+End+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mostafa7hmmad&label=Profile%20Views&color=0e75b6&style=flat" alt="mostafa7hmmad" /> 
