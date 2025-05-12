@@ -1,5 +1,23 @@
 
 <h1 align="center">👋 Hi, I'm Mostafa 
+
+  <p align="center">
+  <!-- Dynamic GitHub stats with themes -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafa7hmmad&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa7hmmad&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+<p align="center">
+  <!-- GitHub streak stats with fire animation -->
+  <img src="https://streak-stats.demolab.com?user=mostafa7hmmad&theme=holi-theme&fire=DD472C&ring=DD7230" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- 3D contribution graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa7hmmad&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" />
+</p>
+
+---
   <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Back+End+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
@@ -49,39 +67,8 @@
 
 
 
-### 📈 GitHub Analytics
 
-<p align="center">
-  <!-- Dynamic GitHub stats with themes -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafa7hmmad&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa7hmmad&layout=compact&langs_count=8&theme=radical"/>
-</p>
 
-<p align="center">
-  <!-- GitHub streak stats with fire animation -->
-  <img src="https://streak-stats.demolab.com?user=mostafa7hmmad&theme=holi-theme&fire=DD472C&ring=DD7230" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- 3D contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa7hmmad&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" />
-</p>
-
----
-
-### 🌟 Recent Projects
-
-<!-- Dynamic recent repos with links -->
-<div align="center">
-  <a href="https://github.com/mostafa7hmmad/Project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa7hmmad&repo=Project1&theme=dark" />
-  </a>
-  <a href="https://github.com/mostafa7hmmad/Project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa7hmmad&repo=Project2&theme=dark" />
-  </a>
-</div>
-
----
 
 
 
