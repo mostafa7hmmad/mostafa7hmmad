@@ -84,21 +84,6 @@
 
 ---
 
----
 
-### 🎚️ Weekly Development Breakdown
 
-<!-- Wakatime stats -->
-[![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
-<!-- Replace with your actual WakaTime embed code -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mostafa7hmmad&layout=compact&theme=radical" alt="WakaTime Stats" />
 
----
-
-<p align="center">
-  <img src="https://github.com/mostafa7hmmad/mostafa7hmmad/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
