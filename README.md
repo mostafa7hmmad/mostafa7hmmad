@@ -18,12 +18,6 @@
 </p>
 
 ---
-### 📊 GitHub Stats 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa7hmmad&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa7hmmad&layout=compact&theme=github_dark" height="180"/>
-</p>
 
 ---
 ### 🚀 Tech Stack
@@ -48,17 +42,23 @@
 </p>
 
 
-
-
-
-
-### 📈 Live GitHub Profile Metrics
-
 [![Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/mostafa7hmmad)](https://github.com/mostafa7hmmad?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=followers)
 [![Stars](https://img.shields.io/github/stars/mostafa7hmmad?style=social)](https://github.com/mostafa7hmmad?tab=repositories)
 
----
+### 📊 GitHub Stats 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafa7hmmad&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa7hmmad&layout=compact&theme=github_dark" height="180"/>
+</p>
+
+
+
+
+
+
+
 
 ### ⏳ GitHub Streaks
 
