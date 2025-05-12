@@ -9,10 +9,6 @@
   </a>
 </p>
 <p align="center">
-  <!-- 3D contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa7hmmad&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" />
-</p>
-  <p align="center">
   <!-- Animated social badges -->
   <a href="https://wa.me/201154079827" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010" />
@@ -27,6 +23,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
   </a>
 </p>
+<p align="center">
+  <!-- 3D contribution graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa7hmmad&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" />
+</p>
+  
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <img src="https://github.com/mostafa7hmmad/mostafa7hmmad/blob/main/images/border.gif?raw=true" width="100%"/>
