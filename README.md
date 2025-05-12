@@ -63,7 +63,7 @@
 ### ⏳ GitHub Streaks
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mostafa7hmmad&theme=github-dark-blue" />
+  <img src="https://streak-stats.demolab.com/?user=mostafa7hmmad&theme=github-dark-blue"/>
 </p>
 
 
