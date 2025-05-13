@@ -57,14 +57,9 @@
 
 ### 📈 GitHub Analytics
 
- <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafa7hmmad&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa7hmmad&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
 <p align="center">
-  <!-- GitHub streak stats with fire animation -->
-  <img src="https://streak-stats.demolab.com?user=mostafa7hmmad&theme=holi-theme&fire=DD472C&ring=DD7230" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafa7hmmad&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Mostafa's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa7hmmad&layout=compact&langs_count=8&theme=radical" alt="Mostafa's Top Languages"/>
 </p>
 
 
