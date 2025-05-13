@@ -64,16 +64,6 @@
 
 
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafa7hmmad&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa7hmmad&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mostafa7hmmad&theme=holi-theme&fire=DD472C&ring=DD7230" alt="GitHub Streak" />
-</p>
-
-
 
 
 
