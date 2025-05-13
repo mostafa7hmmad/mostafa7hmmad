@@ -1,5 +1,10 @@
 <h1 align="center">👋 Hi, I'm Mostafa 
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Computer+Vision+Engineer;Back+End+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
 
   ---
   <p align="center">
@@ -28,11 +33,6 @@
   <img src="https://github.com/mostafa7hmmad/mostafa7hmmad/blob/main/images/border.gif?raw=true" width="100%"/>
 </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Computer+Vision+Engineer;Back+End+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</p>
 <p align="center">
   <!-- Animated icons with hover effects -->
   <a href="https://skillicons.dev">
