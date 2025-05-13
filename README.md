@@ -65,7 +65,9 @@
 
 
 
-<img src="https://streak-stats.demolab.com?user=mostafa7hmmad&theme=holi-theme&fire=DD472C&ring=DD7230" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mostafa7hmmad&theme=holi-theme&fire=DD472C&ring=DD7230" alt="GitHub Streak Stats"/>
+</p>
 
 
 
