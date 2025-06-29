@@ -53,14 +53,6 @@
 
 
 
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafa7hmmad&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Mostafa's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa7hmmad&layout=compact&langs_count=8&theme=radical" alt="Mostafa's Top Languages"/>
-</p>
 
 
 
